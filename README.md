@@ -6,4 +6,4 @@
 
 🛠️ Tech Stack : Python, R, SQL, SAS, Power BI, Power BI Report Builder, Git, LLMs, LaTeX.
 
-📈 Interests : Machine Learning / IA, Econometrics and Design.
+📈 Interests : Machine Learning / AI, Econometrics and Design.
