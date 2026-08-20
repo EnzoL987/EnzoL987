@@ -4,6 +4,6 @@
 
 🎯 Here you will find both personal and academic projects, all of which are aimed at deepening my knowledge in the field of Data.
 
-🛠️ Tech Stack: Python, R, SQL, SAS, Power BI, Power BI Report Builder, Git, LLMs, LaTeX.
+🛠️ Tech Stack : Python, R, SQL, SAS, Power BI, Power BI Report Builder, Git, LLMs, LaTeX.
 
-📈 Interests: Machine Learning / IA, Econometrics and Design.
+📈 Interests : Machine Learning / IA, Econometrics and Design.
